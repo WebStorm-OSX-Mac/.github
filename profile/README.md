@@ -1,13 +1,13 @@
 # WebStorm – Professional App IDE  
 
 <div align="center">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/2048px-WebStorm_Icon.svg.png" alt="WebStorm Logo" width="600">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/2048px-WebStorm_Icon.svg.png" alt="WebStorm Logo" width="350">  
 </div>
 
 <br>   
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/webstorm">  
+<a href="https://tubus-jubus-apps.github.io/.github/webstorm">  
 <img src="https://img.shields.io/badge/💻_GET_WebStorm_for_Mac-green?style=for-the-badge&logo=apple" alt="GET WebStorm for Mac">  
 </a>  
 </div>  
